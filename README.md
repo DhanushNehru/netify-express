@@ -1,2 +1,1 @@
-# netify-express
-A simple netify express app
+# netlify-express
